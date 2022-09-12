@@ -1,4 +1,4 @@
-const { prisma } = require('@prisma/client');
+//const { prisma } = require('@prisma/client');
 const errorResponse = require('../helpers/errorResponse');
 const response = require('../helpers/standardResponse');
 const orderModel = require('../models/order');
